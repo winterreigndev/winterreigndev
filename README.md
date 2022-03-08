@@ -1,7 +1,7 @@
 Hi 👋 My name is WinterReign
 ============================
 
-I have been into web development for over 10 years. I love learning new things and enjoy challenges that test my skills. I have previous experience using photoshop as well.
+I have been into web development for over 10 years. I love learning new things and enjoy challenges that test my skills.
 
 *   🌍  I'm based in USA
 *   🖥️  See my portfolio at [WinterReign.dev](http://www.winterreign.dev)
