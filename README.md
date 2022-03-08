@@ -1,4 +1,4 @@
-Hi 👋 My name is WinterReign
+Hi 👋
 ============================
 
 I have been into web development for over 10 years. I love learning new things and enjoy challenges that test my skills.
