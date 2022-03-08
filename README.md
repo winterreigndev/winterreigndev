@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is WinterReign
+============================
 
-<!--
-**winterreigndev/winterreigndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been into web development for over 10 years. I love learning new things and enjoy challenges that test my skills. I have previous experience using photoshop as well.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in USA
+*   🖥️  See my portfolio at [WinterReign.dev](http://www.winterreign.dev)
+*   ✉️  You can contact me at [webmaster@winterreign.dev](mailto:webmaster@winterreign.dev)
+*   🧠  I'm learning NodeJS + Express
+*   🤝  I'm open to collaborating on interesting projects
+*   🔭  I'm currently working on building my portfolio
+*   ⚡  Other Experience: Wordpress, Photoshop
