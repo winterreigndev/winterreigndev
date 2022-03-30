@@ -6,7 +6,7 @@ I have been into web development for over 10 years. I love learning new things a
 *   🌍  I'm based in USA
 *   🖥️  See my portfolio at [WinterReign.dev](http://www.winterreign.dev)
 *   ✉️  You can contact me at [webmaster@winterreign.dev](mailto:webmaster@winterreign.dev)
-*   🧠  I'm furthering my knowledge in my main stack: MEVN
+*   🧠  I'm furthering my knowledge in my chosen stack: MEVN
 *   🤝  I'm open to collaborating on interesting projects
 *   🔭  I'm currently working on building my portfolio
 *   ⚡  Other Experience: Wordpress, Photoshop
