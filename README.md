@@ -10,7 +10,7 @@ I have been into web development for over 10 years. I love learning new things a
 *   🤝  I'm open to collaborating on interesting projects
 *   🔭  I'm currently working on building my portfolio
 *   ⚡  Other Experience: Wordpress, Photoshop
-*   ❓   Course Assignments: If you are looking to inquire about my skills in a specific course certificate, let me know as I have every single assignment on my github but private. The Projects are public, but the assignment material if it had been a purchased course, are private.
+*   ❓   Course Assignments: If you are looking to inquire about my skills in a specific course certificate, let me know as I have every single assignment on my github but private. The Projects are public, but the assignment material if it had been a purchased course, is all kept private.
 
 ### Skills
 
