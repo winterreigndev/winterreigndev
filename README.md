@@ -1,5 +1,5 @@
 # 💫About Me :
-* 🌍  I'm based in USA
+** 🌍  I'm based in USA
 * 🖥️  See my portfolio at [WinterReign.dev](http://www.winterreign.dev)
 * ✉️  You can contact me at [webmaster@winterreign.dev](mailto:webmaster@winterreign.dev)
 * 🧠  I'm furthering my knowledge in my chosen stack: MEVN
